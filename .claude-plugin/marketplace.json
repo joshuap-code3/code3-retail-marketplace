@@ -1,1 +1,17 @@
-
+{
+  "name": "code3-retail-marketplace",
+  "owner": {
+    "name": "Code3 — Retail Search"
+  },
+  "metadata": {
+    "description": "Internal Code3 marketplace for retail media optimization plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "code3-retail-optimizer",
+      "source": "./code3-retail-optimizer",
+      "description": "Retail media optimization agent: classify a data dump, route to the right analysis skill, benchmark against client goals from the intake sheet."
+    }
+  ]
+}
