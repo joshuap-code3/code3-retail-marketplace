@@ -1,0 +1,10 @@
+{
+     "name": "code3-retail-optimizer",
+     "version": "0.1.0",
+     "description": "Retail media optimization agent for Code3. Ingests any ad-platform data dump, auto-detects its type, routes to the right analysis skill (keyword, item, placement, or device), pulls client goals live from the Client AI Goal Intake Form, and returns findings plus prioritized optimization recommendations benchmarked against those goals.",
+     "author": {
+       "name": "Code3 — Retail Search"
+     },
+     "keywords": ["retail-media", "amazon-ads", "walmart-connect", "optimization", "pacvue", "skai", "code3"],
+     "license": "UNLICENSED"
+   }
